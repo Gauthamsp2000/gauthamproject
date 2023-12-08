@@ -1,0 +1,16 @@
+.table{
+    border-spacing: 0;
+    margin: 1rem;
+    background-color: rgb(169, 206, 169);
+}
+
+.table__row:nth-child(even) {
+    background-color: rgb(147, 220, 175);
+}
+
+.table__header {
+    text-align: left;
+}
+.table__cell{
+    padding: 8px;
+}
